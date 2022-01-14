@@ -6,7 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/carolinatorcatocarrilho/
 
 
-<div align="center">
+<div align="center" style="background-color: rgb(0, 0, 0);">
  
   <a href="https://github.com/CarolinaTC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarolinaTC&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>

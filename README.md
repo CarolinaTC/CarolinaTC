@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi mate 👋
 
 - 🔭 I’m currently working as Developer 
 - 🤓 I’m currently learning ReactJS

@@ -1,6 +1,6 @@
 ### Hi mate 👋
 
-- 🔭 I’m currently working as Developer 
+- 🔭 I’m currently working as Fronted Developer 
 - 🤓 I’m currently learning ReactJS
 - 🚀 I’m currently study Computer Science in Nova School of Science & Technology
 - 📫 How to reach me: https://www.linkedin.com/in/carolinatorcatocarrilho/

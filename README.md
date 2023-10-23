@@ -23,6 +23,8 @@
   <img align="center" alt="Carol-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <!--   <img align="center" alt="django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"> -->
   <img align="center" alt="Carol-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+ <img align="center" alt="Carol-Vue" height="30" width="40" src="URL_TO_YOUR_VUE_ICON">
+
 
 </div>
 

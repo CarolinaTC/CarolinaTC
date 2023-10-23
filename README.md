@@ -1,7 +1,7 @@
 ### Hi mate 👋
 
 - 🔭 I’m currently working as Fronted Developer 
-- 🤓 I’m currently learning ReactJS / NextJS
+- 🤓 I’m currently learning NextJS / SpringBoot 
 - 🚀 I’m currently study Computer Science in Nova School of Science & Technology
 - 📫 How to reach me: https://www.linkedin.com/in/carolinatorcatocarrilho/
 

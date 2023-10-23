@@ -28,7 +28,8 @@
 
   ##
   <div> 
- 
+
   ![Snake animation](https://github.com/CarolinaTC/CarolinaTC/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>

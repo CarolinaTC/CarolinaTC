@@ -15,6 +15,6 @@ jobs:
     - name: Generate Snake
       uses: Platane/snk@master
       with:
-        github_user_name: YourGitHubUsername
+        github_user_name: CarolinaTC
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
